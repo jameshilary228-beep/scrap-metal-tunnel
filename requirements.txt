@@ -1,4 +1,6 @@
-apify
+apify==1.7.2
 requests
 beautifulsoup4
+pydantic==1.10.12
+
 
