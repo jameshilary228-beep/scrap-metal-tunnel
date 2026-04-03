@@ -1,4 +1,4 @@
-hereimport requests
+import requests
 from bs4 import BeautifulSoup
 from apify import Actor
 import asyncio
